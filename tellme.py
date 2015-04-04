@@ -7,3 +7,6 @@ def possible_exit():
         exit(1)
     else:
         print "Continuing game..."
+
+def error():
+    print "Command not recognized."
